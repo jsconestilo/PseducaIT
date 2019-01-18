@@ -1,0 +1,24 @@
+/* PSEDUCA IT - Plataforma de Servicios Educativos. */
+/* Centro de Bachillerato José Vasconcelos SC. */
+
+/* TEAM */
+Fundador: Alejandro González Reyes
+Site: http://director.io/prepajv/
+Contacto: alejandro.gonzalez.reyes[at]outlook.com
+Twitter: @lia_alejandro
+Location: Toluca, México
+
+/* THANKS */
+http://www.videotutoriales.com
+http://www.desarrolloweb.com
+http://www.cristalab.com
+@jonmircha
+
+/* SITE */
+Last update: 2013/07/27
+Language: Español
+Standars: HTML5, CSS3
+Components: Responsive Web Design, Google Maps
+Software: SublimeText2, CorelDraw
+
+/* http://humanstxt.org */
