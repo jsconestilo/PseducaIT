@@ -15,10 +15,10 @@ información legal Institucional del Sitio, así como los datos del desarrollado
 
 2. Página de Bienvenidos
 
-...Esta sección está conformada por un Slider que muestra imágenes representativas a la comunidad estudiantil del Centro de Bachillerato José Vasconcelos, seguido de un conjunto de informaciones acerca de la
+⋅⋅⋅Esta sección está conformada por un Slider que muestra imágenes representativas a la comunidad estudiantil del Centro de Bachillerato José Vasconcelos, seguido de un conjunto de informaciones acerca de la
 Plataforma de Servicios Educativos **PSEDUCA IT**, así como de la Misión, Visión y Valores que distinguen a la Institución Educativa.
 
-...Es importante mencionar que tanto la cabecera como el pie de documento de cada una de las secciones descritas de aquí en adelante incorporan el mismo contenido. En el apartado de cabecera de documento, se contemplan aspectos como la publicación del logotipo Institucional, barra de menú de navegación y formulario de búsqueda de contenido temático. Finalmente en el apartado de pie de documento, se agregan aspectos como: una sección de botonera para navegación a redes sociales, formulario de registro a boletines especiales e informaciones referentes a cuestiones legales del Sitio.
+	Es importante mencionar que tanto la cabecera como el pie de documento de cada una de las secciones descritas de aquí en adelante incorporan el mismo contenido. En el apartado de cabecera de documento, se contemplan aspectos como la publicación del logotipo Institucional, barra de menú de navegación y formulario de búsqueda de contenido temático. Finalmente en el apartado de pie de documento, se agregan aspectos como: una sección de botonera para navegación a redes sociales, formulario de registro a boletines especiales e informaciones referentes a cuestiones legales del Sitio.
 
 3. Página de Cursos
 
