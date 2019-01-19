@@ -13,6 +13,10 @@ comunicación en aspectos académicos y de investigación, utilizando tecnologí
 | CSS-3    |         |
 | Responsive Web Design    |         |
 
+### Enlace Proyecto en Producción
+
+[pseduca.xpsmart.com.mx](http://pseduca.xpsmart.com.mx/)
+
 ### Descripción de las Secciones del Sitio
 
 **1. Página de Inicio**
