@@ -1,4 +1,4 @@
-![Logotipo PSEDUCA IT](https://ch3301files.storage.live.com/y4pkXU15eiHddM6tEYOUprhHmjBYcIy1hmA8dSQu8FNIGu3x1_9rivGuEsIOmeHKKZQze1Q5wwmRba_OWai7EHjXzOZysIFceBsi70BiIxzlJBhbePb72ocz_xcMxKIqnvLX4f4GQcSJ2VWDtV-RaH35ofVyvuZjop6X1GV-h5wqOR0Nroqhb-Uhh_9W9L9j-TY/pseducaIT.png?psid=1&width=450&height=74 "Logotipo PSEDUCA IT")
+![](https://github.com/jsconestilo/PseducaIT/blob/master/logotipoGithub.png)
 
 La Plataforma de Servicios Educativos **PSEDUCA IT** del Centro de Bachillerato José Vasconcelos es una herramienta de apoyo a la educación y a la comunicación basada en Internet. Tiene por objeto brindar servicios de ayuda a las diversas modalidades educativas que ofrece dicha Institución, así como facilitar la
 comunicación en aspectos académicos y de investigación, utilizando tecnología de cómputo de vanguardia de las necesidades educativas actuales.
